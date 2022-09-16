@@ -1,7 +1,7 @@
 # nlw eSports
 
 ## Sobre
-Projeto que estou desenvolvendo junto com a rocketseat e com o Mayk Brito durante a Next Level Week (NLW).
+Projeto que desenvolvi junto com a rocketseat e com o Mayk Brito durante a Next Level Week (NLW).
 
 > ## Expectativas
 Eu estou gostando do evento, e ele é focado para quem nunca teve contato com a programação, porém, eu estou revisando e entendendo melhor alguns conceitos que não ficaram claros anteriormente, e no próximo, pretendo participar da outra trilha!
