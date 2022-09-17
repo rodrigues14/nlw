@@ -39,7 +39,7 @@ Durante essa aula, teve a explicação do que é o CSS e como estilizar uma pág
 Nesta aula, foi falado um pouco mais sobre as competencias de um dev além do código, as soft skills e finalizamos o estilo do projeto, trabalhando com keyframes para adicionar transições nos elementos.
 
 > ### Stage 5/6 | Final Round
-Em breve
+Durante esta aula, foi falado um pouco mais do github e sobre o github pages. Além disso o professor falou sobre como montar um bom readme para documentar os nossos projetos.
 
 > ### Stage 6/6 | The Next Level
 Em breve
